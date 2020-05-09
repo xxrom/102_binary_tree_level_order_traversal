@@ -42,3 +42,6 @@ print("ans: correct? - %s" % str(ans == goal_ans), ans)
 
 # Runtime: 32 ms, faster than 76.22% of Python3 online submissions for Binary Tree Level Order Traversal.
 # Memory Usage: 14.4 MB, less than 6.45% of Python3 online submissions for Binary Tree Level Order Traversal.
+
+# Runtime: 24 ms, faster than 98.26% of Python3 online submissions for Binary Tree Level Order Traversal.
+# Memory Usage: 14.6 MB, less than 6.45% of Python3 online submissions for Binary Tree Level Order Traversal.
